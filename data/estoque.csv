@@ -1,0 +1,49 @@
+ID_Produto,Nome_Produto,Preco,Preco_Custo,Quantidade
+1,iphone10,3590.98,3299.99,24
+2,Teclado Gamer,123.99,90.0,13
+3,Placa Mãe Asus B550M,979.88,800.0,13
+4,Fone de Ouvido Bluetooth,99.99,65.0,47
+5,Impressora Multifuncional HP,349.0,280.0,6
+6,"Smart TV 4K Samsung 55""",2499.99,2100.0,12
+7,Console de Videogame Xbox Series X,1999.88,1750.0,18
+8,"Notebook Dell Inspiron 15""",1699.0,1350.0,25
+9,Cafeteira Elétrica,59.99,40.0,30
+10,Secador de Cabelo Profissional,89.5,65.0,20
+11,Câmera Fotográfica Canon EOS Rebel,899.0,600.0,9
+12,Aspirador de Pó Robô,299.0,220.0,5
+13,Smartphone Samsung Galaxy S21,1499.88,1200.0,20
+14,Micro-ondas Electrolux,249.5,180.0,12
+15,Panela Elétrica de Arroz,69.99,50.0,25
+16,Escova Elétrica Oral-B,89.0,65.0,18
+17,Colchão de Espuma Queen,599.0,450.0,8
+18,Bicicleta Urbana,449.99,350.0,15
+19,Fone de Ouvido Bluetooth,89.99,60.0,30
+20,"Smart TV LED 50""",2199.0,1900.0,12
+21,Máquina de Café Expresso,299.99,230.0,15
+22,Console de Videogame Xbox Series X,2999.88,2500.0,4
+23,"Notebook Dell Inspiron 15""",1699.0,1400.0,15
+24,Fogão a Gás 4 Bocas,499.99,380.0,9
+25,Cadeira de Escritório Ergonômica,249.0,180.0,19
+26,Impressora Multifuncional HP,149.5,110.0,25
+27,Aspirador de Pó Vertical,129.99,95.0,15
+28,Câmera de Segurança Wi-Fi,89.5,70.0,20
+29,Churrasqueira Elétrica,199.88,150.0,12
+30,Sofá Reclinável,799.0,650.0,8
+31,Sanduicheira Elétrica,39.99,28.0,25
+32,Secador de Cabelo Profissional,69.0,50.0,18
+33,Micro-ondas 30 Litros,399.99,320.0,8
+34,Mochila para Notebook,49.5,35.0,29
+35,Sapato Social Masculino,99.0,75.0,15
+36,Conjunto de Panelas Antiaderentes,149.88,120.0,20
+37,mouse sem fio,49.99,25.0,84
+38,"Monitor Gamer AOC 24""",1399.88,900.0,20
+39,"Monitor Gamer AOC 21""",1299.9,900.0,10
+40,JBL Boombox,2990.88,2490.9,15
+41,Liquidificador Mondial,159.0,90.0,10
+7891000379691,Nescau 370g Nestlé ,14.88,11.0,48
+7896038306053,Arroz Urbano 1kg,4.89,2.9,600
+7896264670942,Macarrão Estrela 400g,2.88,1.88,800
+123,short jeans,100.0,60.0,10
+1234567891019,short,23.0,14.0,1
+78907850,Loção Deo hidratante Paixão ,16.99,11.5,95
+,,0.0,0.0,1
